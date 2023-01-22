@@ -1,0 +1,14 @@
+.img {
+  height: 500px;
+  width: 500px;
+  border-radius: 16px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 4rem 0;
+  margin: auto auto;
+}

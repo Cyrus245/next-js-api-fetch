@@ -1,0 +1,15 @@
+.h1 {
+  text-align: center;
+  margin: 0px auto 40px auto;
+  color: yellow;
+}
+.p {
+  text-align: center;
+  margin: auto;
+}
+
+.link {
+  margin: auto auto;
+  margin-top: 80px;
+  color: blue;
+}
